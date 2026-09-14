@@ -1,0 +1,519 @@
+1. GENEL İLERLEME VE AV SAYISI ROZETLERİ (1 - 50)
+İlk Kontak: İlk aracını başarıyla tarat.
+Kontağı Aç: 5 araç tarat.
+Rodaj Süresi: 10 araç tarat.
+İlk Servis: 20 araç tarat.
+Garaj Kapısı Açıldı: 30 araç tarat.
+Yol Palası: 40 araç tarat.
+Çeyrek Depo: 50 araç tarat.
+Asfalt Meraklısı: 60 araç tarat.
+Kaldırım Gözcüsü: 70 araç tarat.
+Şehir Dedektifi: 80 araç tarat.
+Yol Arkadaşı: 90 araç tarat.
+Yarım Depo: 100 araç tarat.
+Yol Katibi: 110 araç tarat.
+Trafik Müfettişi: 120 araç tarat.
+Hız Sabitleyici: 130 araç tarat.
+Şerit Takipçi: 140 araç tarat.
+Kör Nokta Kaşifi: 150 araç tarat.
+Uzun Yol Kaptanı: 160 araç tarat.
+Asfalt İz sürücüsü: 170 araç tarat.
+Trafik Canavarı Savar: 180 araç tarat.
+Kavşak Hakimi: 190 araç tarat.
+Full Depo: 200 araç tarat.
+Otoban Yıldızı: 210 araç tarat.
+Sokakların Dili: 220 araç tarat.
+Cadde Avcısı: 230 araç tarat.
+Kronometre Ustası: 240 araç tarat.
+Hız Tutkunu: 250 araç tarat.
+Hava Filtresi: 260 araç tarat.
+Egzoz Kokusu: 270 araç tarat.
+Motor Sesi Aşıkları: 280 araç tarat.
+Asfalt Eriten: 290 araç tarat.
+Büyük Depo: 300 araç tarat.
+Viraj Avcısı: 310 araç tarat.
+Makas Ustası: 320 araç tarat.
+Kırmızı Çizgi (Redline): 330 araç tarat.
+Performans Delisi: 340 araç tarat.
+Piston Kafası: 350 araç tarat.
+Silindir Sayıcı: 360 araç tarat.
+Krank Mili: 370 araç tarat.
+Buji Ateşleyici: 380 araç tarat.
+Eksantrik: 390 araç tarat.
+Yolun Hakimi: 400 araç tarat.
+Katalog Tarayıcı: 410 araç tarat.
+Hafıza Ustası: 420 araç tarat.
+Detay Avcısı: 430 araç tarat.
+Gözü Keskin: 440 araç tarat.
+Trafik Yoğunluğu: 450 araç tarat.
+Metal Dedektörü: 460 araç tarat.
+Şasi Dehası: 470 araç tarat.
+Mega Garaj Sahibi: 500 araç tarat.
+
+2. NADİRLİK VE SKOR ROZETLERİ (51 - 100)
+Sıradan Bir Gün: İlk defa 5 puanlık (Common) araç tarat.
+Gözüme Çarptı: İlk defa 15 puanlık araç tarat.
+Fena Değil: İlk defa 30 puanlık araç tarat.
+Sokakta Tarz: İlk defa 50 puanlık (Rare) araç tarat.
+Kafalar Döndü: İlk defa 100 puanlık (Epic) araç tarat.
+Kırmızı Halı: İlk defa 200 puanlık araç tarat.
+Gözlerime İnanmıyorum: İlk defa 250 puanlık (Legendary) araç tarat.
+Piyango Yıldızı: İlk defa 500 puanlık araç tarat.
+Müzelik Eser: İlk defa 1000 puanlık (Mythic) araç tarat.
+Nadir Avcı: Arka arkaya 3 adet Rare araç tarat.
+Egzotik Koleksiyoner: Toplamda 5 adet Epic araç tarat.
+Milyoner Kulübü: Toplam piyasa değeri 50M TL üzeri araçlar tarat.
+Altın Değerinde: Tek seferde 300 puan ve üzeri kazan.
+Servet Avcısı: Toplam piyasa değeri 100M TL üzeri araçlar tarat.
+Süperkar Mıknatısı: 1 hafta içinde 3 adet Süper Spor araç bul.
+Hiperkar Kaşifi: İlk Hiperkarını (Bugatti, Koenigsegg vb.) avla.
+Nadir Metal: Türkiye'de tahmini adeti 10'dan az olan bir araç bul.
+Tek Boynuzlu At (Unicorn): Türkiye'de sadece 1 adet olan bir aracı tarat.
+Fabrika Çıkışı Özel: Sadece sınırlı sayıda üretilmiş (Limited Edition) bir araç bul.
+Yürüyen Hazine: Tek bir taramada 500 puan sınırını geç.
+Şanslı Gün: Aynı caddede 2 adet Epic araç bul.
+Cevher Avcısı: Toplamda 20 adet Rare araç tarat.
+Koleksiyon Parçası: 1970 öncesi üretilmiş nadir bir araç bul.
+Yarış Atı: Pist odaklı (GT2RS, STO vb.) yasal bir yarış arabası avla.
+Göz Kamaştırıcı: Lansman renginde ve kusursuz durumda bir süperkar bul.
+Gizli Hazine: Tozlu veya otoparkta unutulmuş nadir bir araç bul.
+Sokak Modeli: Modifikasyonlu ama aşırı nadir bir parça yakala.
+Safkan: Hiç modifiye edilmemiş, tamamen orijinal klasik bir supercar bul.
+Karbon Fiber: Gövdesinin çoğu karbon fiber olan bir araç bul.
+V12 Canavarı: İlk V12 motorlu nadir aracını avla.
+Sınırlı Seri: Plakasında veya kasasında üretim numarası yazan araç bul.
+Prototip Avcısı: Test aşamasında veya kamuflajlı bir araç yakala.
+Milyon Dolarlık Gülüş: Değeri 1 milyon doları aşan ilk aracını tarat.
+Sokak Efsanesi: JDM kültürünün en nadir parçalarından birini bul.
+Kraliyet Arabası: Rolls-Royce veya Bentley gibi ultra lüks sınıf bir araç tarat.
+Pist Canavarı: Üzerinde devasa bir fabrikasyon kanat (Spoiler) olan nadir araç bul.
+Homologasyon Özel: Ralli için üretilip sokağa uyarlanmış nadir araç bul.
+Geleceğin Klasiği: Şimdiden nadirleşmeye başlayan 2000'ler arabası bul.
+Asfalt Ağlatan: 0-100 hızlanması 3 saniyenin altında olan bir araç bul.
+Hafif Sıklet: Ağırlığı 1000 kg'ın altında olan nadir bir spor araba bul.
+Zirve Noktası: Uygulamadaki en yüksek puanlı 5 araçtan birini tarat.
+Özel Sipariş: Benzersiz bir kişiselleştirme paketine sahip araç bul.
+Zaman Yolcusu: Kilometresi çok düşük kalmış mükemmel durumda yaşlı bir araç bul.
+Zengin Kalkışı: Kalkış kontrolü (Launch Control) olan nadir araç tarat.
+Oto-Dedektif: Kimsenin ne olduğunu anlamadığı ama senin bildiğin o nadir arabayı bul.
+Haftanın Avı: O hafta tüm Türkiye'de en çok puan getiren 10 araçtan birini çek.
+Süperkar Koleksiyoncusu: Garajına 10 farklı süperkar ekle.
+Koleksiyon Zirvesi: Nadirlik puanlarında toplamda 5.000 puana ulaş.
+Gurme Spotter: Sadece araba gurmelerinin bildiği butik bir marka (Pagani, Singer vb.) bul.
+Efsane Avcı: Uygulamadaki tüm nadirlik seviyelerinden en az birer araç tarat.
+
+3. DONANIM PAKETİ VE DETAY ROZETLERİ (101 - 150)
+Makyaj Dedektifi: İlk defa makyajlı (Facelift) bir kasayı doğru tespit et.
+M Sport Kaşifi: İlk BMW M Sport paketini yakala.
+AMG Avcısı: İlk Mercedes AMG Line paketini yakala.
+R-Line Gözü: İlk Volkswagen R-Line paketini yakala.
+Luxury Uzmanı: İlk lüks odaklı paketi (Luxury Line, Exclusive) ayırt et.
+Paket Avcısı: 5 farklı donanım paketini doğru tespit et.
+Detaycı: Sadece jant tasarımından donanım paketini yapay zekaya doğrulat.
+Tampon Logosu: Tampondaki mini logolardan paket tespiti yap.
+Krom Sevdası: Krom detaylara sahip bir üst paket araç bul.
+Karbon Paket: Fabrikasyon karbon dış paketi olan bir araç tarat.
+Giriş Seviyesi: Bir modelin en boş (Base/Joy/Trendline) paketini tarat.
+Gırtlak Dolu: Bir modelin en dolu (Gırtlak Dolu) paketini tarat.
+Gece Paketi (Night Edition): Siyah detaylı fabrika çıkışlı donanımı yakala.
+Yarış Koltuğu: İçerisinde Recaro veya Bucket koltuk olan donanımı keşfet.
+Seramik Fren: Büyük sarı/karbon seramik fren disklerine sahip paketi bul.
+Kasa Kodu Bilgini: Aracın tam kasa kodunu (Örn: W213, G30) başarıyla eşleştir.
+Jant Gurmesi: Özel bir opsiyon jant modelini doğru analiz ettir.
+Geniş Kasa (Widebody): Fabrika çıkışlı geniş çamurluklu donanımı yakala.
+Performans Paketi: Standart modelin "Performance" versiyonunu ayırt et.
+Black Series: Mercedes'in en hırçın donanım serisinden birini bul.
+M Performance: Saf M olmasa da M Performance donanımlı bir BMW bul.
+S-Line Avcısı: İlk Audi S-Line paketini yakala.
+Fr Gözcüsü: İlk Seat FR paketini yakala.
+ST-Line Dedektifi: İlk Ford ST-Line paketini bul.
+N-Line Avcısı: İlk Hyundai N-Line paketini bul.
+Monte Carlo Ruhu: İlk Skoda Monte Carlo donanımını keşfet.
+Vignale Lüksü: İlk Ford Vignale lüks paketini bul.
+Quadrifoglio Gözü: İlk Alfa Romeo dört yapraklı yonca donanımını yakala.
+Scuderia Ruhu: Ferrari'nin pist paketlerinden birini bul.
+Weissach Paket: Porsche'nin en hafif ve pahalı Weissach donanımını avla.
+Opsiyon Canavarı: Üzerinde en az 5 farklı fabrika opsiyonu olan araç bul.
+Özel Döşeme: İçerisinde taba rengi veya özel alkantara döşeme olan paket bul.
+Açılır Tavan (Sunroof): Cam tavanlı veya sunrooflu bir paket yakala.
+Mat Boya: Fabrika çıkışlı mat boyaya (Magno/Frozen) sahip donanım bul.
+Katalog Arabası: Broşürlerdeki lansman kombinasyonunun birebir aynısını bul.
+Teknoloji Paketi: Hayalet göstergeli ve en üst teknoloji donanımlı araç bul.
+Kış Paketi: Koltuk ısıtma/direksiyon ısıtma detayları olan donanım bul.
+Ses Sistemi Gurmesi: Dışarıdan hoparlör logoları (Burmester, Harman Kardon) seçilen donanım bul.
+Hafif jant: Magnezyum veya dövme (forged) jantlı özel donanım yakala.
+Aero Paket: Üzerinde ek kanatçıklar (flics) olan hırçın paket bul.
+Yıldönümü Serisi: Markaların 50. yıl, 100. yıl gibi özel donanım paketlerini bul.
+Karanlık Taraf: Logoları dahil her şeyi fabrikadan siyah gelen donanım bul.
+Klasik Çizgi: Krom ağırlıklı, ahşap detaylı gelen donanım paketlerini bul.
+Yönetici Paketi (Executive): Arka koltuk konfor odaklı uzun şasi donanım bul.
+Trophy Avcısı: Renault Sport'un Trophy donanımlarından birini yakala.
+Clubman/ClubSport: Pist günleri için üretilmiş özel hafifletilmiş donanım bul.
+Karbon Seramik Gözcü: Fren kalperlerinden en üst fren donanımını bil.
+Sürücü Paketi: Manuel şanzımanlı saf sürüş odaklı donanım paketini yakala.
+Paket Dedektifi: Yan yana duran aynı model iki aracın paket farklarını tek tek bul.
+Donanım Profesörü: 100 farklı aracın donanım paketini sıfır hata ile ayırt et.
+
+4. COĞRAFYA VE KONUM BAZLI ROZETLER (151 - 200)
+Şehir Kaşifi: İlk kez kendi mahallenin dışında araba tara.
+Semt Oturaklısı: Aynı semtte 10 farklı araç tara.
+İl Sınırı Geçildi: Başka bir şehirde ilk arabanı tarat.
+Metropol Avcısı: İstanbul'da 50 araç tara.
+Başkent Gözcüsü: Ankara'da 20 araç tara.
+Ege Rüzgarı: İzmir'de 20 araç tara.
+Turist: Hayatında ilk kez gittiğin bir şehirde araç tara.
+Sınır Ötesi: Yurt dışında bir araç tarat.
+Havalimanı Otoparkı: Bir havalimanında araç tara.
+Valelerle Yarışan: Lüks bir AVM'nin valesinde 5 araç tara.
+Cadde Çocuğu: Şehrin en popüler caddesinde (Örn: Bağdat Caddesi) 20 araç tara.
+Sanayi Günlükleri: Bir oto sanayi sitesinde araç tara.
+Kıyı Şeridi: Deniz kenarında park etmiş bir araç bul.
+Dağ Havası: Yüksek rakımlı veya dağlık bir alanda 4x4 araç tara.
+Otopark Fatihi: Kapalı bir otoparkta 30 araç tara.
+Kavşak Nöbetçisi: Aynı konumdan 10 dakika içinde 5 araç tara.
+Radar Altı: Haritada "Nadir Araç Bölgesi" olarak işaretlenen yerde araç bul.
+Isı Haritası (Heatmap) Ustası: Şehrindeki 5 farklı ısı haritası bölgesini ziyaret et.
+Bölge Hakimi: Kendi ilçende en çok araba taratan ilk 3 kişiden biri ol.
+Yol Gezgini: Toplamda 5 farklı şehirde tarama yap.
+Seyyah: Toplamda 10 farklı şehirde tarama yap.
+Evliya Çelebi: Toplamda 20 farklı şehirde tarama yap.
+Kıta Değiştiren: Hem Asya hem Avrupa kıtasında aynı gün araç tara.
+Yarış Pisti Ziyaretçisi: Körfez veya Ülkü pisti yakınlarında bir araç tara.
+Fuar Müfettişi: Bir otomobil fuarında veya etkinliğinde araç tara.
+Sokak Lambası Altında: Gece haritasında aktif olan bir bölgede araba bul.
+Otel Girişi: 5 yıldızlı bir otelin kapısında lüks araç tara.
+Plaj Çocuğu: Bir tatil beldesinde üstü açık (Cabrio) araç tara.
+Sınır Kapısı: Türkiye sınır kapılarına yakın yerde yabancı plakalı araç tara.
+Kampçı: Kamp alanında veya ormanda bir arazi aracı tara.
+Tarihi Doku: Tarihi bir mekanın önünde klasik araç tara.
+Finans Merkezi: Plaza ve iş merkezlerinin yoğun olduğu yerde lüks sedan tara.
+Üniversite Kampüsü: Bir üniversite kampüsü içinde araç tara.
+Benzinlik Molası: Bir akaryakıt istasyonunda yakıt alan araç tara.
+Yol Kenarı: Otobanda emniyet şeridinde veya cepte duran araç tara.
+Trafik Sıkışıklığı: Trafiğin tamamen durduğu dur kalk noktasında araç tara.
+Boğaz Havası: Boğaz hattında (Bebek, Arnavutköy vb.) süperkar yakala.
+Sanayi Gurmesi: Modifikasyon dükkanlarının önünde modifiyeli araç tara.
+Gizli Sokaklar: Haritada daha önce kimsenin araba taratmadığı bir sokakta araba bul.
+İlk Ayak İzi: Bir mahalleyi uygulamada ilk keşfeden kişi ol.
+Harita Avcısı: Bildirim gelen "Nadir Araç Bildirimi" konumuna 30 dk içinde gidip aracı avla.
+Kartal Gözü Semt: İlçesindeki tüm mahallelerde en az bir araba taratmış olmak.
+Şehirlerarası: Aynı gün içinde iki farklı şehirlerarası otobanda araç tara.
+Liman Gözcüsü: Ro-Ro gemisi veya liman yakınlarında ithal araç tara.
+Doğa Dostu Konum: Bir milli park içinde elektrikli araç tara.
+Hız Koridoru: Hız kameralarının olduğu düzlükte spor araba tara.
+Tuning Merkezi: Maslak Sanayi gibi modifiye kalbi olan bir yerde 50 araç tara.
+Asfalt Turisti: Kendi ülkenin dışındaki bir kıtada araba tara.
+Kutup Yıldızı: Şehrin en kuzey noktasında tarama yap.
+Evrensel Spotter: Toplamda 3 farklı ülkede araba avla.
+
+5. ALMAN EKOLÜ ROZETLERİ (201 - 250)
+Bavyera Motor Adamı: İlk BMW'ni tarat.
+Stuttgart Yıldızı: İlk Mercedes-Benz'ini tarat.
+Dört Halka: İlk Audi'ni tarat.
+Halkın Arabası: İlk Volkswagen'ini tarat.
+Dokuz Yüz On Bir: İlk Porsche 911'ini tarat.
+Alman Tankı: 10 adet Alman arabası tara.
+Otoban Fatihi: 50 adet Alman arabası tara.
+M Deposu: Saf M departmanı üretimi bir BMW (M3, M4, M5) tarat.
+V8 BiTurbo: Mercedes-AMG'nin saf v8 modelini bul (C63, E63 vb.).
+Quattro Gücü: Audi RS serisinden bir araç tarat (RS6, RS3 vb.).
+G-Wagen Avcısı: İlk Mercedes G-Class'ını yakala.
+Beetle Dedesi: Klasik bir Vosvos (Beetle) tara.
+Yeşil Cehennem (Nürburgring): Porsche RS modellerinden birini bul.
+Alpina Gurmesi: Çok nadir olan orijinal bir BMW Alpina modeli bul.
+Maybach Lüksü: İlk ultra lüks Mercedes-Maybach aracını yakala.
+GTI Ruhu: Golf GTI veya Polo GTI tarat.
+Alman Mühendisliği: Aynı gün hem BMW, hem Mercedes, hem Audi tara.
+Efsane Kasa E30: Klasik bir BMW E30 yakala.
+Çakal Kasa: Modifiyeli veya klasik bir BMW E36 tara.
+Yüzyılın Sınıfı (S-Class): Lüksün simgesi bir Mercedes S-Class bul.
+R8 Kükremesi: V10 motorlu bir Audi R8 avla.
+Hafif Safkan (Cayman): Bir Porsche Cayman veya Boxster yakala.
+Yarışçı Ördek (Ducktail): Arkası ördek kuyruğu tasarımlı klasik Porsche bul.
+W124 Efsanesi: Eski ama yıkılmayan bir Mercedes W124 tara.
+Scirocco Çetesi: Bir dönemin efsanesi VW Scirocco yakala.
+R32 / R: Volkswagen'in en güçlü "R" serisi modellerini bul.
+TDI Gücü: V6 veya V8 güçlü bir dizel Alman (Örn: Touareg V8 TDI) bul.
+Elektrikli Ok (Taycan): İlk Porsche Taycan'ını tarat.
+M5 Efsanesi: İş adamı görünümlü canavar bir BMW M5 avla.
+SLS Kanatları: Martı kanat bir Mercedes SLS AMG bul.
+SLR McLaren: Efsanevi Mercedes-Benz SLR McLaren modelini yakala.
+Carrera GT: Dünyanın en tehlikeli ve nadir Porsche modellerinden birini bul.
+Alman Nostaljisi: 1980 öncesi üretilmiş bir Alman arabası bul.
+Modern Klasik (E46 M3): Otomobil dünyasının kutsal kasesi E46 M3 bul.
+Gözü Kara AMG: Mercedes'in safkan "Black Series" bir modelini yakala.
+Z3/Z4 Roadster: Üstü açık iki kişilik bir BMW Z serisi bul.
+Audi TT: Tasarım ikonlarından Audi TT veya TTS tarat.
+Phaeton Lüksü: VW'nin ürettiği en lüks ve nadir sedan Phaeton'u bul.
+Spyder: Porsche'nin sınırlı üretim Spyder modellerinden birini yakala.
+Bavyera Sarayı (7 Serisi): Makam arabası kıvamında bir BMW 7 Serisi bul.
+Hammer (Çekiç): Eski dönem efsanevi bir AMG Mercedes bul.
+WRC Ruhu (Polo R WRC): Sınırlı üretim ralli genli VW bul.
+Süper Station (RS6): Dünyanın en hızlı aile arabası Audi RS6'yı avla.
+E-Tron Dünyası: Audi'nin tamamen elektrikli RS E-Tron modelini bul.
+CS Serisi: BMW'nin daha hafif ve güçlü "CS" modellerinden birini yakala.
+918 Turbo: Porsche 918 Spyder hiperkarını bul (Milyon puanlık görev!).
+G-Power: Modifikasyonlu devasa güçte bir G-Power BMW bul.
+Brabus Canavarı: Mercedes üzerine kurulmuş orijinal bir Brabus canavarı yakala.
+Alman Müzesi Müdürü: 50 farklı Alman modeli taratarak koleksiyonu tamamla.
+Otoban İmparatoru: Alman arabalarından toplamda 10.000 puan topla.
+
+6. JAPON (JDM) VE ASYA EKOLÜ ROZETLERİ (251 - 300)
+Yükselen Güneş: İlk Japon arabasını tarat.
+VTEC Açtı: İlk yüksek devirli Honda VTEC modelini tarat.
+Godzilla Avcısı: İlk Nissan GT-R (R35 veya eski kasa) modelini yakala.
+Ralli Efsanesi (STI): İlk Subaru Impreza WRX STI modelini tara.
+Yıkılmaz Evo: İlk Mitsubishi Lancer Evolution modelini yakala.
+Rotary Sesi: Wankel motorlu bir Mazda RX-8 veya RX-7 bul.
+Supraaaaa!: Efsanevi Toyota Supra (MK4 veya MK5) modelini avla.
+JDM Kültürü: 10 adet safkan Japon arabası tara.
+Drift Kralı: Arkadan itişli efsane bir Japon drift arabası (Silvia, 350Z vb.) bul.
+Ölümsüz Hilux: Dünyanın en dayanıklı aracı Toyota Hilux tarat.
+Type R Ruhu: Honda Civic Type R (EK9, EP3, FK2, FK8 veya FL5) yakala.
+Küçük Dev (Miata): Dünyanın en çok satan roadsterı Mazda MX-5 Miata bul.
+Lexus Asaleti: Japon lüksü bir Lexus modeli tarat (Örn: LC500, LFA).
+S2K Sevdası: Devir kesici canavarı şık bir Honda S2000 avla.
+Hachi-Roku: Drift dünyasının temel taşı Toyota AE86 yakala.
+Kore Kaplanı: Hyundai N veya Kia GT gibi performanslı bir Koreli bul.
+Tofaş Katili: Eski nesil temiz bir Honda Civic (İES) tara.
+Kei Car: Japonya'ya özgü minik kutu gibi bir araba (Suzuki Jimny vb.) bul.
+GTR Soyu: Eski nesil bir Skyline (R32, R33, R34) bul (Milyon puan!).
+Çift Turbolu Japon: 90'ların çift turbolu Japon canavarlarından birini yakala.
+Nismo Dokunuşu: Nissan'ın yarış departmanı üretimi bir Nismo modeli bul.
+Pist Günleri (BRZ/GR86): Saf sürüş odaklı bir Subaru BRZ veya Toyota GR86 bul.
+Z Serisi: Nissan 350Z, 370Z veya yeni Nissan Z modelini yakala.
+Efendi Hibrit: Dünyanın ilk seri üretim hibriti Toyota Prius tara.
+Dakar Ruhu (Pajero): Dakar ralli şampiyonu Mitsubishi Pajero bul.
+Süper Koreli (Ioniq 5 N): 650 beygirlik çılgın elektrikli Hyundai'yi avla.
+JDM Nostalji: 1990 öncesi üretilmiş klasik bir Japon arabası bul.
+Land Cruiser Efsanesi: Dağların kralı büyük bir Toyota Land Cruiser tara.
+Siyah Kaput: Karbon kaput modifiyeli bir JDM arabası bul.
+Büyük Kanat: Bagajında devasa bir ralli kanadı olan Subaru yakala.
+Sınırda Devir: Kadranı 9.000 devir çeviren safkan bir Japon motoru bul.
+JDM Müfettişi: Aynı gün içinde Toyota, Nissan ve Honda tara.
+Stance Kıvamı: Yere basık, geniş kamberli japon modifiye tarzı araç bul.
+Sessiz Samuray: Elektrikli veya tamamen sessiz çalışan yeni nesil Japon bul.
+Mazda3 MPS: Mazda'nın nadir ateşli hatcback modellerinden birini yakala.
+Galant VR-4: Mitsubishi'nin unutulmuş efsanevi sedanını bul.
+Celica Rallisi: Toyota'nın ralli geçmişini yansıtan bir Celica avla.
+Stagea: Nissan'ın Skyine motorlu efsanevi station wagon arabasını bul.
+Chaser: Japonya iç pazarına özel üretilmiş drift sedanı yakala.
+NSX Dokunuşu: Ayrton Senna'nın geliştirdiği efsanevi Honda NSX'i bul.
+Japonya Büyükelçisi: Garajında 30 farklı Japon modeli bulundur.
+V6 Japon: Büyük hacimli V6 motora sahip bir Japon spor arabası bul.
+Swift Sport: Küçük ama hırçın Suzuki Swift Sport yakala.
+Yaris GR: Dünya Ralli Şampiyonası genli çılgın Toyota GR Yaris'i avla.
+Integra Type R: Ön çeker dünyasının en iyi yol tutan arabasını bul.
+Wankel Ustadı: 3 farklı Wankel motorlu araba tarat.
+Sokak Yarışçısı: Altında neon veya modifiye ışıklandırma olan JDM tarzı araç bul.
+JDM Koleksiyoncusu: Tüm ikonik JDM modellerini (GTR, Supra, EVO, STI) garajına ekle.
+Samuray Ruhu: Japon arabalarından toplamda 5.000 puan elde et.
+Shogun: Japon araç taramalarında liderlik tablosunda 1. sıraya yüksel.
+
+7. İTALYAN TUTKUSU VE SÜPERKAR ROZETLERİ (301 - 350)
+Şahlanan Beygir: İlk Ferrari'ni tarat.
+Öfkeli Boğa: İlk Lamborghini'ni tarat.
+Üç Dişli Mızrak: İlk Maserati'ni tarat.
+İtalyan Ateşi: İlk Alfa Romeo'nu tarat.
+Halkın İtalyanı: İlk Fiat'ını tarat.
+Rosso Corsa: Ferrari kırmızısı renginde bir araç tarat.
+V10 Senfonisi: Lamborghini Gallardo veya Huracan avla.
+Kelebek Kapılar: Kapıları yukarı doğru açılan bir Lamborghini (Aventador/Murcielago) bul.
+Maserati Kükremesi: Ferrari motorlu bir Maserati GranTurismo yakala.
+Toro突撃 (Boğa Saldırısı): 5 farklı Lamborghini modeli tara.
+Marandello Ziyaretçisi: 5 farklı Ferrari modeli tara.
+Yeşil Yonca: Alfa Romeo'nun Quadrifoglio performans modelini bul.
+Küçük Akrep (Abarth): Fiat'ın hırçın versiyonu bir Abarth yakala.
+İtalyan Çetesi: Aynı gün hem Fiat, hem Alfa Romeo, hem Maserati tara.
+Aventador Ateşi: V12 motorlu safkan bir Lamborghini Aventador avla.
+Pista Ruhu: Ferrari 488 Pista veya 458 Speciale gibi pist özel modelleri bul.
+F40 Saygısı: Çift turbolu veya safkan eski nesil bir İtalyan supercar bul.
+Urus Canavarı: Dünyanın en hızlı SUV modellerinden Lamborghini Urus yakala.
+McLAREN Esintisi: İngiliz/İtalyan rekabetinden bir McLaren modeli avla.
+Açık Hava (Spyder): Üstü açık bir İtalyan egzotik spor arabası bul.
+Roma Asaleti: Şık tasarımıyla dikkat çeken bir Ferrari Roma yakala.
+Maserati MC20: Maserati'nin yeni nesil ortadan motorlu süperkarını bul.
+Alfa 4C/8C: Karbon şasili hafif safkan Alfa Romeo spor arabası bul.
+Eski Toprak: 1990 öncesi üretilmiş klasik bir Ferrari veya Lamborghini bul.
+Giallo Orion: Lamborghini sarısı renginde muhteşem bir boğa yakala.
+V12 İtalyan: Ön tarafa konumlandırılmış V12 motora sahip Ferrari (812 Superfast vb.) bul.
+İtalyan Tasarım Evi: Pininfarina veya Bertone imzalı özel bir İtalyan bul.
+Fiat Coupe: 90'ların çılgın tasarımlı Fiat Coupe modelini yakala.
+Maserati Ghibli: Günlük hayatta görülebilecek hırçın İtalyan sedanı tara.
+Lamborghini SVJ: Sınırlı üretim, pist rekoru kıran Aventador SVJ avla.
+Ferrari Monza: Camı olmayan özel üretim Icona serisi Ferrari bul (Milyon puan!).
+Countach Saygısı: Kama tasarımlı nostaljik bir Lamborghini bul.
+Lancia Delta Integrale: Ralli efsanesi efsanevi İtalyan hatchbacki bul.
+Diablo Kabusu: 90'ların poster arabası Lamborghini Diablo yakala.
+Ferrari Enzo: Efsanevi kurucunun adını taşıyan hiperkarı bul.
+LaFerrari Geleceği: Hibrit V12 teknolojili LaFerrari hiperkarını avla.
+Maserati MC12: Yarış genli, dünyada çok az bulunan efsaneyi yakala.
+Pagani Gurmesi: Sanat eseri niteliğindeki Pagani Zonda veya Huayra'yı bul.
+Butik İtalyan: Dallara Stradale veya Iso Rivolta gibi çok nadir markalar bul.
+Alfa Romeo Giulia GTA: Pist odaklı sınırlı üretim ekstrem sedan Alfa bul.
+Ferrari Dino: Klasik altı silindirli nostaljik Ferrari'yi keşfet.
+Lamborghini Miura: Dünyanın ilk süperkarı kabul edilen Miura'yı bul (Kral rozeti).
+Testarossa Çizgileri: Yan tarafları ızgaralı ikonik Ferrari Testarossa yakala.
+Maserati Levante: İtalyan ruhunu taşıyan lüks SUV modelini tara.
+Ferrari F8 Tributo: V8 motor saygısı sunan modern Ferrari'yi avla.
+Lamborghini Sian: Hibrit teknolojili ilk sınırlı üretim Lamborghini'yi bul.
+İtalyan Donanması: Garajında 15 farklı Ferrari ve Lamborghini bulundur.
+Rönesans Sanatçısı: İtalyan arabalarından toplamda 15.000 puan topla.
+Sezar'ın Hakkı: İtalyan arabaları taramasında haftalık lider ol.
+İtalyan Aygırı: Tüm İtalyan koleksiyon parçalarını eksiksiz tamamla.
+
+8. AMERİKAN KASI VE PRESTİJ ROZETLERİ (351 - 400)
+Amerikan Kası (Muscle): İlk V8 Amerikan kas arabasını tarat.
+Vahşi Mustang: İlk Ford Mustang modelini tarat.
+Yarış Çetesi (Camaro): İlk Chevrolet Camaro modelini yakala.
+Cehennem Kedisi (Hellcat): 700+ beygirlik bir Dodge Hellcat (Charger/Challenger) avla.
+Yılan Isırığı (Viper): 8.4 litrelik devasa V10 motorlu Dodge Viper bul.
+Amerika'nın Sporcusu: İlk Chevrolet Corvette (C6, C7 veya ortadan motorlu C8) yakala.
+Büyük Blok V8: 5.0 litre ve üzeri hacme sahip gerçek bir Amerikan motoru tara.
+Cadillac Konforu: Amerikan rüyası devasa lüks bir Cadillac sedan tara.
+Tesla Çağı: İlk tamamen elektrikli Tesla modelini tarat.
+Çılgın Plaid: 1020 beygirlik Tesla Model S Plaid modelini avla.
+Arazi Kralı (Wrangler): İlk safkan Jeep Wrangler modelini dağda taşta yakala.
+Amerikan Rüyası: Aynı gün içinde Ford, Chevy ve Dodge tarat.
+Hummer Tankı: Yolları kaplayan devasa bir Hummer (H1, H2 veya H3) yakala.
+Ford GT: Le Mans efsanesi süperkar Ford GT modelini bul.
+Klasik Kas: 1970 model veya daha eski klasik bir Amerikan kas arabası bul.
+Geniş Çamurluk (Widebody Dodge): Fabrika çıkışlı geniş kasalı bir Challenger tara.
+Alçak Sürüş (Lowrider): Özel süspansiyonlu klasik bir Amerikan arabası bul.
+Pick-Up Canavarı: Ram 1500 veya Ford F-150 Raptor gibi devasa kamyonet bul.
+Shelby Dokunuşu: Efsanevi Shelby logolu bir Mustang (GT350 veya GT500) yakala.
+Lincolni Esintisi: Hollywood filmlerinden fırlamış dev bir Lincoln SUV/Sedan tara.
+Hemi Gücü: Dünyaca ünlü HEMI motorlu bir Amerikan arabası bul.
+Corvette Z06: Pist odaklı yüksek devirli özel Corvette sürümünü avla.
+Dodge Demon: Kalkışta ön tekerleklerini kaldıran sınırlı üretim Demon bul.
+Elektrikli Kamyonet (Cybertruck): Paslanmaz çelik tasarımlı Tesla Cybertruck yakala.
+Chevrolet Bel Air: 1950'lerin kuyruklu ikonik klasik Amerikanını bul.
+Ateş Kuşu (Firebird): Pontiac Firebird veya Trans Am efsanesini yakala.
+DeLorean Zaman Makinesi: Geleceğe Dönüş filminin paslanmaz çelik DeLorean'ını bul.
+Polis Arabası Tasarımı: Amerika'daki polis araçlarının sivil versiyonu Ford Interceptor tara.
+Grand Cherokee SRT: Yarış arabası motorlu devasa Jeep SRT veya Trackhawk avla.
+Yolun Sonu (End of an Era): Üretimi biten son nesil safkan benzinli Amerikan kası yakala.
+Amerikan Station Wagon: Arkası devasa eski nesil ahşap kaplama görünümlü wagon bul.
+GMC Yukon: Amerikan gizli servisinin kullandığı devasa siyah SUV'u yakala.
+Z06 Kükremesi: Düz krank miline sahip yeni nesil Corvette sesini kaydet/tara.
+Saleen Modifikasyonu: Çok nadir özel üretim bir Saleen Mustang bul.
+Camaro ZL1: Nürburgring canavarı en güçlü Camaro modelini avla.
+Jeep Gladiator: Wrangler tasarımlı pick-up modelini yakala.
+Buick Riviera: Tasarım harikası klasik bir Amerikan lüks coupe bul.
+Mercury Cougar: Unutulmuş kas arabası markalarından temiz bir örnek bul.
+Chrysler 300C: Amerikan Bentley'i lakaplı büyük heybetli sedanı tara.
+Ford Focus RS: Amerika kökenli olmasa da Amerikan markasının çılgın ralli hatchbackini bul.
+Dodge Viper ACR: Devasa kanatlı, pistleri altüst eden ekstrem Viper'ı avla.
+Hennessey Canavarı: Teksaslı modifiye firmasının 1000 beygirlik bir aracını bul.
+Geleceğin Kası: Elektrikli altyapıya sahip yeni nesil Amerikan spor arabası tara.
+TRX Canavarı: 702 beygirlik Hellcat motorlu Ram TRX pick-up'ı yakala.
+Amerikan Koleksiyoneri: Garajına 25 farklı Amerikan modelini ekle.
+V8 Bağımlısı: Sadece V8 motorlu Amerikanlardan toplamda 5.000 puan yap.
+Vahşi Batı Kaptanı: Amerikan araçları kategorisinde liderliğe oyna.
+Özgürlük Ruhu: 1960'ların üstü açık klasik bir Amerikan kruvazörü bul.
+Kas Ordusu İmparatoru: Amerikan arabalarından toplamda 12.000 puan kazan.
+Büyük Amerikan Şerifi: Tüm Amerikan başarımlar ve rozetlerini aç.
+
+9. ELEKTRİKLİ, GELECEK VE HİBRİT ROZETLERİ (401 - 450)
+İlk Kıvılcım: İlk tamamen elektrikli (%100 EV) aracını tarat.
+Yeşil Doğa: İlk çevre dostu hibrit aracını tarat.
+Sessiz Suikastçı: Çalışırken hiç ses çıkarmayan elektrikli bir spor araba bul.
+Menzil Kaygısı Yok: Tek şarjla 500 km giden bir elektrikli araç tara.
+Şarj İstasyonu Nöbeti: Bir elektrikli şarj istasyonunun önünde araç tara.
+Gelecek Geldi: 10 adet tamamen elektrikli araç tara.
+Volt Avcısı: Garajındaki elektrikli araçların toplam batarya kapasitesini 500 kWh yap.
+Taycan Gücü: Elektrikli performansın zirvesi Porsche Taycan Turbo S avla.
+Audi E-Tron GT: Fütüristik tasarımlı Audi elektrikli süper sedanını bul.
+BMW i Serisi: BMW'nin elektrikli i3, i4, i7 veya iX modellerinden birini tara.
+Mercedes EQ Dünyası: Mercedes'in tamamen elektrikli EQS veya EQE modellerini yakala.
+Mavi Logo: Hibrit olduğunu belirten mavi logolu bir Toyota veya Honda bul.
+Çin Dalgası: Yeni nesil Çinli elektrikli devlerden (BYD, Zeekr vb.) birini tara.
+Yerli Gurur (Togg): Türkiye'nin yerli akıllı elektrikli cihazı Togg T10X'i tara.
+Gizli Güç (PHEV): Dışarıdan kabloyla şarj edilebilen Kablolu Hibrit (Plug-in) araç bul.
+İki Motorlu: Hem benzinli hem elektrikli motorun detaylarını AI kartında gör.
+Sıfır Emisyon: Aynı gün içinde 5 adet tamamen elektrikli araç tara.
+Ludicrous Hızı: Tesla'nın efsanevi kalkış moduna sahip performans versiyonunu bul.
+Fütüristik Işık Kartı: Önü tamamen LED şerit aydınlatmalı yeni nesil EV tara.
+Giriş Izgarasız: Önünde hiç radyatör ızgarası (panjur) olmayan pürüzsüz bir EV bul.
+Kameralı Ayna: Yan aynaları yerine kamera kullanan teknolojik bir EV (Audi e-tron vb.) yakala.
+Gizli Kapı Kolları: Gövdeye gömülü kapı kolları olan aerodinamik bir elektrikli araç bul.
+Çift Motorlu (AWD EV): Hem ön hem arka aksında elektrik motoru olan 4x4 bir EV bul.
+Çılgın Hatcback (MG4 Electric): Arkadan itişli performanslı elektrikli hatchback yakala.
+Ioniq Tasarımı: Piksel far tasarımıyla ödüllü Hyundai Ioniq 5 veya Ioniq 6 bul.
+Lüks Elektrik: Lucid Air veya Porsche Taycan gibi ultra lüks elektrikli sedan bul.
+Elektrikli SUV Ordusu: Caddelerdeki elektrikli SUV'lardan (Skywell, BYD Atto 3 vb.) 10 tane tara.
+Küçük Şehirli (Ami): Şehir içi mini mobilite aracı Citroen Ami veya benzerini yakala.
+Hiper Hibrit (SF90): 1000 beygirlik hibrit Ferrari SF90 Stradale'yi avla (Büyük ödül).
+BMW i8 Nostaljisi: Geleceğin tasarımını geçmişten getiren hibrit BMW i8'i bul.
+V8 Hibrit: Yeni nesil V8 motorlu hibrit canavarlardan (Örn: Porsche Cayenne Turbo E-Hybrid) bul.
+Güneş Panelli: Tavanında fabrikasyon güneş paneli olan çok nadir bir EV/Hibrit bul.
+Zeekr 001: Çin'in en hızlı ve lüks elektrikli shooting brake modelini yakala.
+Lotus Eletre: İngiliz spor araba markasının 900 beygirlik elektrikli hiper SUV'unu bul.
+Hiphi X: Kapıları bilimkurgu filmleri gibi açılan çılgın Çinli elektrikliyi yakala.
+Renault Zoe Çetesi: Şehirlerin eski emektar elektrikli hatchbackinden 5 tane tara.
+Kinetik Enerji Geri Kazanımı: Fren yapınca bataryasını dolduran agresif bir EV bul.
+Karbon Ayak İzi Azaltıcı: Sadece elektrikli araçlardan toplamda 4.000 puan topla.
+Sessiz Devrim: Garajındaki elektrikli ve hibrit araç sayısını 40'a ulaştır.
+Tesla Avcısı: Sokaktaki tüm Tesla modellerini (Model 3, Y, S, X) başarıyla garajına ekle.
+Geleceğin Filosu: Aynı gün içinde 3 farklı markanın elektrikli modelini tara.
+Katalizörsüz Dünya: Egzoz çıkışı olmayan araçları avlama uzmanı ol.
+Kuantum Sıçraması: 0-100 hızlanması 2.5 saniyenin altında olan bir EV bul.
+Rimac Ruhu: Elektrikli hiperkar teknolojisinin ulaştığı son noktayı temsil eden bir araç bul.
+Batarya Profesörü: Elektrikli araçların batarya ve motor teknolojilerini ezbere bilen spotter.
+Eco-Performance: Hem doğa dostu hem de 500 beygirden güçlü 5 araç tara.
+Yeşil Liderlik: Elektrikli araçlar kategorisinde haftalık puan tablosunda ilk 3'e gir.
+Gelecek Bilgini: Yeni çıkan ve piyasaya henüz giren 3 farklı elektrikli modeli dünyada ilk tarayanlardan ol.
+Yeşil Garaj İmparatoru: Elektrikli araç taramalarından toplamda 8.000 puan kazan.
+E-Mobilite Gurusu: Geleceğin teknolojisine ait tüm başarımları ve gizli rozetleri tamamla.
+
+10. SPESİFİK, SOSYAL VE "EASTER EGG" GİZLI ROZETLERİ (451 - 500)
+Gece Kuşu: Gece saat 02:00 ile 05:00 arasında nadir bir araç tara.
+Erken Kalkan Yol Alır: Sabah saat 05:00 ile 07:00 arasında ilk taramanı yap.
+Sosyal Spotter: Avladığın bir aracı ilk kez Instagram veya sosyal medyada paylaş.
+Hatalı Solama (Geliştiriciyi Bul): Uygulamadaki bir yazılım hatasını veya yanlış araç verisini bildirip düzelttir.
+Ruhsat Sahibi: Kendi kişisel aracını taratarak dijital garajının "Baş Köşesine" ekle.
+Kardeş Payı: Bir arkadaşını senin referans kodunla uygulamaya dahil et.
+Yağmurlu Gün Dostu: Sağanak yağmurlu havada dışarıda araç tarat.
+Kar Küreyici: Karlı havada, üzeri karla kaplı olmasına rağmen markasını bildiğin aracı tara.
+Plaka Meraklısı: Sonu "911" veya özel harf kombinasyonlu anlamlı bir plaka yakala.
+Düğün Konvoyu: Peş peşe dizilmiş 3 adet süslü beyaz lüks araç tara.
+Trafik Polisi Yanında: Yanında polis arabası park edilmiş olan lüks bir araç tara.
+Ayna Karşısı: Dikiz aynasından veya bir dükkan vitrininin yansımasından araba tara.
+Hızlı Vekil: Siyah renkli, çakarlı ve tahmini olarak makam aracı olan lüks bir sedan tara.
+Eski Dost (Tofaş): Türkiye sokaklarının efsanesi Şahin, Doğan veya Kartal tarat.
+Bunu Nasıl Bildin?: Çok kirli, üzeri tamamen çamurlu bir aracın modelini doğru tahmin ettir.
+Kırmızı Çizgimiz: Sokakta kırmızı renkli bir spor araba ve hemen yanında beyaz bir araba tara (Bayrak kombini).
+Yan Yan (Drift Modu): Tekerlekleri yana doğru tam tur kırık, drift pozisyonunda park etmiş spor araba tara.
+Klasik Müze: Bir klasik araba müzesindeki tüm araçları tek günde tara (Puan vermez ama rozet açar).
+Çatısızlar (Cabrio): Tentesi/tavanı tamamen açık şekilde seyreden bir üstü açık araba yakala.
+Cam Filmi Canavarı: Camları %100 simsiyah kapkara olan gizemli bir araç tara.
+Hız Körlüğü: Saatte 80 km ile yanından geçerken hareket halindeki aracı net çekip taratmayı başar.
+Göz Yanılması: Tamamen başka bir modele benzetilerek replika yapılmış bir aracı yapay zekayla ortaya çıkar.
+Çift Yumurta İkizleri: Aynı marka, aynı model ve aynı renk yan yana park etmiş iki aracı tek karede tara.
+Büyük Patron: Plakasında şirket ismi yazan kurumsal lüks bir holding aracı tara.
+Nostalji Treni: Sarı taksi olarak kullanılan eski bir emektar model yakala.
+Yarış Çizgileri (Stripes): Üzerinde önden arkaya doğru yarış şeritleri (Le Mans çizgileri) olan araç bul.
+Yere Yakın (Basık): Altına sigara paketi girmeyecek kadar yere yakın modifiyeli bir araç tara.
+Sürü Lideri: Liderlik tablosunda en az 3 arkadaşını geride bırakarak üste yerleş.
+Popüler Av: O gün tüm Türkiye genelinde en çok taratılan popüler arabayı sen de bul.
+Yalnız Kurt: Şehir haritasında etrafında 5 km boyunca hiçbir spotterın olmadığı ıssız bir yerde araba avla.
+Hafta Sonu Savaşçısı: Sadece Cumartesi ve Pazar günleri toplamda 50 araç tarat.
+Sadık Spotter: Uygulamayı arka arkaya 30 gün boyunca her gün en az bir kez aç ve araba tara.
+Koleksiyon Delisi: Tek bir markanın (Örn: Sadece Renault veya sadece BMW) 20 farklı modelini bul.
+Boyasız Orijinal: Kondisyon puanı yapay zeka tarafından "Kusursuz/Fabrikasyon" verilen bir araç bul.
+Zaman Makinesi Kahramanı: 1950 öncesi üretilmiş, yürüyen durumda canlı bir efsane yakala.
+Trafik Gurusu: Sadece trafiğin en yoğun olduğu saatte (18:00 - 19:30) 15 araç taratmayı başar.
+Görünmez Yolcu: Arkasında devasa karavan çeken güçlü bir SUV veya pick-up tara.
+Matador: Sadece sinirli tasarımlı, keskin hatlı İtalyan boğalarını (Lamborghini) avlama uzman.
+Yeşil Cehennem Yolcusu: Üzerinde yeşil cehennem (Nürburgring) pist haritası çıkartması olan spor araba bul.
+Yapay Zekayı Zorlayan: Dünyada çok az kişinin bildiği, yapay zekanın %51 güven oranıyla zor bildiği bir araç bul.
+Süper Lig Kulübü: Ünlü futbolcuların veya ünlülerin kullandığı lüks araç kombinasyonlarını caddede yakala.
+Valelerin Kabusu: Valenin bile park etmeye korktuğu ultra lüks veya hiper aracı sokakta kendi gözünle bul.
+Ses Mühendisi (Bonus): Gelecek güncellemede açılacak olan sesle motor tanıma özelliğinin prototipini ilk test eden ol.
+Kendi Kendini Geçen: Kendi haftalık puan rekorunu bir sonraki hafta %50 oranında artırarak kır.
+Yılın Spotterı: Uygulamanın en aktif, en adil ve en yüksek puanlı ilk 100 kullanıcısından biri ol.
+Şöhretler Kaldırımı: Profilindeki "Vitrin" kısmına 5 adet Legendary veya üzeri araç ekle.
+Büyük Usta (Master Splinter): Uygulamadaki toplam puanını 50.000 sınırının üzerine çıkar.
+Asfaltın Gizli Şefi: Profilini gizli tutarak liderlik tablosunda en üst sıralara tırmanmayı başar.
+Shazam for Cars Şampiyonu: Uygulamadaki tüm rozetlerin %90'ını açmış efsanevi mertebe.
+Ölümsüz Motor Kafası: 500. Rozet. Tüm listeyi bitiren, dünyadaki tüm donanımları, paketleri ve nadir arabaları ezbere bilen, otomobil kültürünün yeryüzündeki en büyük temsilcisi olan kullanıcıya verilir.
